@@ -1,0 +1,17 @@
+body {
+    background-color: goldenrod;
+    text-align: center; /*comment*/
+    font-size: 200%;
+}
+
+h1 {
+    
+}
+p {
+    font: size 20px;
+}
+
+#para1 {
+    color:red;
+    border-style: outset;
+}
